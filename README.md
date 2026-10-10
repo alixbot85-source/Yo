@@ -16,6 +16,7 @@ curl -fsSL https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE
 | **Agent Mode v2.0** (compact, 93 lines) | [`AGENT_MODE.compact.md`](AGENT_MODE.compact.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE.compact.md) |
 | **Machine-readable spec** (YAML) | [`agent_mode.spec.yaml`](agent_mode.spec.yaml) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/agent_mode.spec.yaml) |
 | **Evidence contract** (claim → check) | [`EVIDENCE_CONTRACT.md`](EVIDENCE_CONTRACT.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/EVIDENCE_CONTRACT.md) |
+| v1.1 — v1 format, strengthened (plain text) | [`prompts/SPIRIT-vAgent-v1.1-strengthened.txt`](prompts/SPIRIT-vAgent-v1.1-strengthened.txt) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/prompts/SPIRIT-vAgent-v1.1-strengthened.txt) |
 | v1.0 — Safe Extended Edition | [`prompts/SPIRIT-vAgent-safe-extended.md`](prompts/SPIRIT-vAgent-safe-extended.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/prompts/SPIRIT-vAgent-safe-extended.md) |
 | Changelog | [`CHANGELOG.md`](CHANGELOG.md) |
 

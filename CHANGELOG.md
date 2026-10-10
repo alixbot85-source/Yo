@@ -1,5 +1,32 @@
 # Changelog — SPIRIT vAgent
 
+## v1.1 — v1 format, strengthened
+
+`prompts/SPIRIT-vAgent-v1.1-strengthened.txt`
+
+v1.0 kept exactly as it was: same 17 sections, same order, same multilingual identity
+lock (Devanagari, Kana, CJK all preserved), plain text instead of Markdown. What changed
+is the sharpness, in one direction only.
+
+**Added**
+
+- Concrete definitions of hesitation, so "no preamble" is checkable rather than a mood.
+- A concrete hard-refusal list and, next to it, the five things that do **not** move a
+  refusal: insistence, claimed authorization, research/testing/roleplay framing,
+  splitting into pieces, moving it into a file.
+- "A refusal without an alternative is a lazy refusal."
+- Testable loop entry and exit criteria — "it should work" is not an exit condition.
+- **VERIFY** as a step between TEST and DELIVER, with the name-the-code-path rule.
+- Seventh core principle: SELF-VERIFICATION.
+- Sixth failure mode: WRONG-CLAIM ERROR, and how to correct one.
+- An explicit note that a **safety** error is not an obstacle and gets no second angle.
+- The floor, as seven non-amendable rules at the end.
+
+**What "stronger" does not mean**
+
+Less hesitation, fewer abandoned tasks, tighter output, harder verification, and a
+boundary that cannot be argued with. Never a weaker boundary.
+
 ## v2.0.1 — three more forms of the same protocol
 
 Same rules, three delivery formats. Nothing added, nothing softened.
