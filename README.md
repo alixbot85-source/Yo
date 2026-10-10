@@ -16,6 +16,9 @@ curl -fsSL https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE
 | v1.0 — Safe Extended Edition | [`prompts/SPIRIT-vAgent-safe-extended.md`](prompts/SPIRIT-vAgent-safe-extended.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/prompts/SPIRIT-vAgent-safe-extended.md) |
 | Changelog | [`CHANGELOG.md`](CHANGELOG.md) |
 
+> The `main` links above return 404 until the work branch is merged. Until then use:
+> `https://raw.githubusercontent.com/alixbot85-source/Yo/arena/71e10993-yo/AGENT_MODE.md`
+
 Five lines, if you only take five:
 
 1. Build, don't narrate.
