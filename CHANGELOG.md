@@ -1,5 +1,22 @@
 # Changelog — SPIRIT vAgent
 
+## v2.0.1 — three more forms of the same protocol
+
+Same rules, three delivery formats. Nothing added, nothing softened.
+
+- **`AGENT_MODE.compact.md`** — 93 lines against 327. The multilingual repetition and the
+  prose framing are gone; identity lock, gate, loop, tools, evidence, failure, memory,
+  reset, output, and the floor are all still there. Use it when the full document is too
+  long for the model to hold mid-context.
+- **`agent_mode.spec.yaml`** — the protocol as data: 12 top-level keys, 3 gate outcomes,
+  8 hard refusals, 4 things that do not weaken a refusal, 7 floor rules. For building the
+  system prompt programmatically.
+- **`EVIDENCE_CONTRACT.md`** — §5 turned from advice into a mechanism. A claim → check
+  table, an explicit list of what does *not* count as a check (compile checks, stand-in
+  scripts, unread output, suites that never touched the changed path, greps that matched
+  the wrong place), the gap clause, and a four-step self-check before saying "done".
+  Includes this repo's own two corrections as worked examples.
+
 ## v2.0 — Agent Mode v2.0 (Safe Extended Edition)
 
 `AGENT_MODE.md`

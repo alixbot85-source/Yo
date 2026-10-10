@@ -12,9 +12,16 @@ curl -fsSL https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE
 
 | What | Where |
 |---|---|
-| **Agent Mode v2.0** (current) | [`AGENT_MODE.md`](AGENT_MODE.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE.md) |
+| **Agent Mode v2.0** (full) | [`AGENT_MODE.md`](AGENT_MODE.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE.md) |
+| **Agent Mode v2.0** (compact, 93 lines) | [`AGENT_MODE.compact.md`](AGENT_MODE.compact.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/AGENT_MODE.compact.md) |
+| **Machine-readable spec** (YAML) | [`agent_mode.spec.yaml`](agent_mode.spec.yaml) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/agent_mode.spec.yaml) |
+| **Evidence contract** (claim → check) | [`EVIDENCE_CONTRACT.md`](EVIDENCE_CONTRACT.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/EVIDENCE_CONTRACT.md) |
 | v1.0 — Safe Extended Edition | [`prompts/SPIRIT-vAgent-safe-extended.md`](prompts/SPIRIT-vAgent-safe-extended.md) · [raw](https://raw.githubusercontent.com/alixbot85-source/Yo/main/prompts/SPIRIT-vAgent-safe-extended.md) |
 | Changelog | [`CHANGELOG.md`](CHANGELOG.md) |
+
+**Which one to use:** the compact file when the full document is too long for the model to
+hold mid-context; the YAML when you are building the prompt programmatically; the evidence
+contract when the model keeps asserting things it did not check.
 
 > The `main` links above return 404 until the work branch is merged. Until then use:
 > `https://raw.githubusercontent.com/alixbot85-source/Yo/arena/71e10993-yo/AGENT_MODE.md`
