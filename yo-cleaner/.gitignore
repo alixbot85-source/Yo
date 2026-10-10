@@ -1,0 +1,3 @@
+.yo-cleaner-logs/
+__pycache__/
+*.pyc
